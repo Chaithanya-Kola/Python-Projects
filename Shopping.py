@@ -26,4 +26,4 @@ if __name__ == "__main__":
     print("Total cost of shopping:",total)  
 
     print_expensive_items(shopping_list, 1.0)
-    print("print something")
+    print("print something clear")
